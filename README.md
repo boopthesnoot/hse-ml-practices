@@ -7,3 +7,5 @@
 Данные и код из https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial
 
 Отчёт с анализом кода находится в *code_style.md*
+
+В ветке `snakemake` находится готовый Snakemake пайплайн и CLI для скриптов модели 
