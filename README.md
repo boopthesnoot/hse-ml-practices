@@ -23,14 +23,15 @@
 │   │   ├── test.csv
 │   │   ├── train.csv
 │   │   └── y_train.csv
-│   └── raw
-│       ├── test.csv
-│       └── train.csv
+│   ├── raw
+│   │   ├── test.csv
+│   │   └── train.csv
+│   └── results
+│       └── submissions.csv
 ├── mkdir
 ├── models
 │   └── rf.py
 ├── notebooks
-│   ├── submissions.csv
 │   └── titanic-advanced-feature-engineering-tutorial.ipynb
 ├── references
 ├── reports
