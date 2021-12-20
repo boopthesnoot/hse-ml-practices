@@ -10,6 +10,7 @@
 
 Структура: 
 
+```bash
 ├── README.md
 ├── Snakefile
 ├── code_style.md
@@ -41,4 +42,4 @@
 └── workflow
     ├── __init__.py
     └── cli.py
-    
+```
